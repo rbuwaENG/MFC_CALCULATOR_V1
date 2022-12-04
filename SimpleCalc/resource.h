@@ -6,9 +6,9 @@
 #define IDD_ABOUTBOX                    100
 #define IDS_ABOUTBOX                    101
 #define IDD_SIMPLECALC_DIALOG           102
-#define IDI_ICON1                   128
+#define IDR_MAINFRAME                   128
 #define IDR_MENU1                       130
-#define IDR_MAINFRAME                      132
+#define IDI_ICON1                       132
 #define IDC_EDIT3                       1000
 #define IDC_EDIT2                       1001
 #define ID_SEVEN                        1002
@@ -26,6 +26,7 @@
 #define ID_THREE                        1014
 #define ID_MINUS                        1015
 #define ID_ZERO                         1017
+#define IDC_MFCLINK1                    1017
 #define ID_POW                          1018
 #define ID_MOD                          1019
 #define ID_PLUS                         1020
@@ -43,9 +44,9 @@
 // 
 #ifdef APSTUDIO_INVOKED
 #ifndef APSTUDIO_READONLY_SYMBOLS
-#define _APS_NEXT_RESOURCE_VALUE        133
+#define _APS_NEXT_RESOURCE_VALUE        135
 #define _APS_NEXT_COMMAND_VALUE         32780
-#define _APS_NEXT_CONTROL_VALUE         1017
+#define _APS_NEXT_CONTROL_VALUE         1018
 #define _APS_NEXT_SYMED_VALUE           101
 #endif
 #endif
